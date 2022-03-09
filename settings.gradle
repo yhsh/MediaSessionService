@@ -1,0 +1,2 @@
+rootProject.name = "MediaSessionService"
+include ':app'
